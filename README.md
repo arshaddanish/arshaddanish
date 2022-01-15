@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Arshad Danish[website] 👋
 
-<!--
-**arshaddanish/arshaddanish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Developer, Coder and Mentor!!
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play football
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="arshaddanish's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arshaddanish&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+</details>
+
+[website]: https://arshaddanish.com
