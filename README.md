@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on an E-commerce application
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goal: Contribute more to Open Source projects
-- 💬 Ask me anything
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- 💬 Ask me anything about web development
 - ⚡ Fun fact: I love to play football and listen to music
 
 ### Connect with me:
