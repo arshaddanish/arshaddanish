@@ -2,6 +2,7 @@
 
 ## I'm a Developer, Coder and Mentor!
 
+- 🔭 I’m currently working on an E-commerce application
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
@@ -10,7 +11,6 @@
 ### Connect with me:
 
 [<img align="left" alt="arshaddanish | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 [<img align="left" alt="arshaddanish | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
 <br />
