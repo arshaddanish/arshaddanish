@@ -1,6 +1,6 @@
-### Hi there, I'm Arshad Danish[website] 👋
+### Hi there, I'm Arshad Danish [website] 👋
 
-## I'm a Developer, Coder and Mentor!!
+## I'm a Developer, Coder and Mentor!
 
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate with other developers
