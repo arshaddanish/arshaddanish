@@ -2,11 +2,11 @@
 
 ## I'm a Developer, Coder and Mentor!
 
-- 🔭 I’m currently working on an E-commerce application
+- 🔭 I’m currently working on an E-commerce Application
 - 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate with other developers
+- 👯 I’m looking to collaborate with other Developers
 - 🥅 2022 Goals: Contribute to Open Source projects
-- 💬 Ask me anything about web development
+- 💬 Ask me anything about Web Development
 - ⚡ Fun fact: I love to play football and listen to music
 
 ### Connect with me:
