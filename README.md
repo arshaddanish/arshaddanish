@@ -1,4 +1,4 @@
-### Hi there, I'm Arshad Danish 👋
+### Hi there 👋, I'm Arshad Danish
 
 ## I'm a Developer, Coder and Mentor!
 
